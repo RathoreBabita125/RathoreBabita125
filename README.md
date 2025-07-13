@@ -1,14 +1,16 @@
 <p align="center">
   <h1 align="center">Hi 👋, I'm Babita</h1>
   <img src="https://komarev.com/ghpvc/?username=RathoreBabita125&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-  <br/>
+  
   <a href="https://www.linkedin.com/in/babita-276845204/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&border-radius=50%" alt="LinkedIn">
   </a>
-  <br/>
+  
   <a href="https://leetcode.com/u/Babita_R2525/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black&border-radius=50%" alt="LeetCode">
   </a>
+
+  
 </p>
 
 ---
@@ -18,8 +20,8 @@
 - 🌐 Proficient in **Web Development**: HTML, CSS, Tailwind CSS, JavaScript, React, node.js
 - 💡 Passionate about creating innovative solutions and exploring **Frontend Development**.
 - 💬 Ask me about: **C++, html, CSS, tailwind CSS, JavaScript, React**
-<!-- - 🌟 Check out my portfolio: [My Portfolio] -->
 - 📫 Reach me at **babitarathor100@gmail.com**
+<!-- - 🌟 Check out my portfolio: [My Portfolio] -->
 
 ---
 
